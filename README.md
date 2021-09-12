@@ -1,5 +1,5 @@
 # React Native Basic List
-Introduction to react native 
+### Introduction to React Native 
 Display JSON data in FlatList 
 
 # Screenshots
